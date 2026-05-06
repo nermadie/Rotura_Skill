@@ -10,6 +10,7 @@ Read `input/solution.md`, reformat it to meet submission requirements, write to 
 
 ### Steps
 - Each step must make a **substantial advance** toward the final answer — do not split into trivial micro-steps
+- Solutions should be at least 3 steps
 - Every step starts with `Step N:` (e.g. `Step 1:`, `Step 2:`)
 - The **final step** must end with: `Final Answer: $\boxed{<answer>}$`
 
