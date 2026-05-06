@@ -17,6 +17,8 @@ Mỗi kỹ năng đọc từ thư mục `input/` và ghi kết quả sang `outpu
 ```
 Rotura_Skill/
 	.gemini/                 # Prompt cho Gemini CLI
+  .claude/                 # Prompt cho Claude CLI
+  .github/                 # Prompt cho Copilot CLI
 	1.normalize-problem/     # Mô tả kỹ năng 1
 	2.evaluate-responses/    # Mô tả kỹ năng 2
 	3.format-solution/       # Mô tả kỹ năng 3
